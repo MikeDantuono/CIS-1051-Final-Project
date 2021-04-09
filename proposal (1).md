@@ -37,4 +37,4 @@ The best outcome will be a finished story line with images possibly even gifs re
 
 ## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
-Some new skills will be including audio into certain scenarios. We will need to research incorporating images using if statements, while loops, and a greater understandig of how to do a while true loop to make sure the inputs are valid.
+Some new skills will be including audio into certain scenarios. We will need to research incorporating images using if statements, while loops, and a greater understandig of how to do a while true loop to make sure the inputs are valid. I will work on the logic of the code and creating the if statements while Luis helps me with that and trys to figure our renpy. Khamari is writing the story and creating some visuals to possibly include.
